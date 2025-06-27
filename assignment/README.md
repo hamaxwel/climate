@@ -32,6 +32,9 @@ This project uses machine learning to predict annual CO2 emissions for a selecte
   - R²: 0.98
 - The model explains 98% of the variance in the actual CO₂ emissions data for the United States, with low average errors. This demonstrates excellent predictive power for annual CO₂ emissions.
 
+## Pitch Deck
+You can view the project presentation here: [Google Slides Pitch Deck](https://docs.google.com/presentation/d/1XetfYiMgLJNN3Zl5cPglkp68eqL8VKqjYGi--QZ7qKI/edit?usp=sharing)
+
 ## Ethical Reflection
 - Consider potential biases in the data (e.g., missing years, country reporting differences).
 - How could this model be used for climate action?
