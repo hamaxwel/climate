@@ -127,9 +127,6 @@ def main():
     # 6. Visualize the results
     plot_results(y_test, y_pred)
 
-    # 7. Ethical Reflection (to be completed in your report)
-    print("\nEthical Reflection:")
-    print("- Consider potential biases in the data (e.g., missing years, country reporting differences).\n- How could this model be used for climate action?\n- How can you ensure fairness and promote sustainability?")
 
 if __name__ == "__main__":
     main() 
