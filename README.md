@@ -16,7 +16,7 @@ This project uses machine learning to predict annual CO2 emissions for a selecte
 ## Usage
 1. Install dependencies:
    ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn
+   pip install -r requirements.txt
    ```
 2. Run the script:
    ```bash
